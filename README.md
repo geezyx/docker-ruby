@@ -1,7 +1,7 @@
-Docker-Rails
+Docker-Ruby
 =======================
 
-Small bootstrap container for a rails app.  Provide the environment variables below and off you go!
+Small bootstrap container for a ruby app.  Provide the environment variables below and off you go!
 
 Environment variables
 ---------------------
