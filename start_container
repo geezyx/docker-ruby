@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git clone $GIT_URL $PROJECT_PATH
+cd $PROJECT_PATH
+bundle install
+$START_CMD
